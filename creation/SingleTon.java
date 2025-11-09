@@ -1,3 +1,4 @@
+package creation;
 public class SingleTon {
     
 }
